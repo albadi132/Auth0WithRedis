@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "62s77L1oO2efy4gdk1Aj9QBdyJ6femhZ++cm2NFyAeOcqFnR/+USSJ4+3U7j145VsGm4Su+IppFyYq0xyZv2kw==",
+  "success": true,
+  "projectFilePath": "D:\\Albadi\\TestProject\\Auth0WithRedis\\Auth0WithRedis\\Auth0WithRedis.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\12669251\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\12669251\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\12669251\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\12669251\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\12669251\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\12669251\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
