@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "aWdfoCWT06z0ZTEyGCg8x35VkwxM/hOqDQbE+2Hq/8g=",
+  "Source": "Auth0WithRedis",
+  "BasePath": "_content/Auth0WithRedis",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
